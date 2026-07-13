@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://email-sequence.com/sitemap.xml
